@@ -6,6 +6,7 @@
 
 # Prueba BogoTrash, aquí tienes nuestra versión de lanzamiento:
 # [Descargar APK] (https://github.com/puj-course/fis_2025_g3/blob/8b143fe6d25d99e7edbdedd301cbf3275df47861/BogoTrash.apk)
+# Repositorio original (Clase FIS 2025-10, G3): https://github.com/puj-course/BogoTrash_App
 
 ## 🌍 Descripción del Proyecto
 
